@@ -1,2 +1,2 @@
-# progress-steps
-Etapas de Progresso | Formulário
+## progress-steps
+### Etapas de Progresso | Formulário
